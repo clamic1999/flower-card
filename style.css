@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightpink;
+}
+.card{
+    background-color: blue;
+    height: 500px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 35%;
+    border-radius: 10px;
+}
+img{
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.car{
+    text-align: center;
+}
+p{
+    margin-left: 3px;
+    margin-top: 5px;
+    font-size: large;
+}
+button{
+    padding: 10px;
+    margin-left: 38%;
+    font-size: larger;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: lightpink;
+}
